@@ -12,3 +12,7 @@ Connect-AzureAD
 
 
 Test-CsEffectiveTenantDialPlan
+
+
+Get-MgGroupRejectedSender
+Grant-CsGroupPolicyPackageAssignment
