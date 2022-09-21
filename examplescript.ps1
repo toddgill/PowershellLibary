@@ -4,4 +4,8 @@ rgrgrgrgrg
 Remove-MgGroupPermissionGrant
 
 
-Remove-MgGroupThreadPostSingleValueExtendedProperty
+Remove-MgGroupThreadPostSingleValueExtend
+
+Export-PfxCertificate
+
+Connect-AzureAD
