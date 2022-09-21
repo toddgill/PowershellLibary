@@ -9,3 +9,6 @@ Remove-MgGroupThreadPostSingleValueExtend
 Export-PfxCertificate
 
 Connect-AzureAD
+
+
+Test-CsEffectiveTenantDialPlan
